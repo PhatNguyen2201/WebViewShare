@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CopyLink": {
+      "commandName": "Project",
+      "commandLineArgs": "http://14.161.0.3/ShareHTML?id=32"
+    }
+  }
+}

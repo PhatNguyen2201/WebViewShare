@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebViewShareUpload": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\exocad-exoplan3.0-2020-12-15\\CAD-Data\\2022-04-24_00001-001\\2022-04-24_00001-001.dentalProject"
+    }
+  }
+}
